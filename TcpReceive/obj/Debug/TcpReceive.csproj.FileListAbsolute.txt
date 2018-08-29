@@ -1,0 +1,9 @@
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\bin\Debug\TcpReceive.exe.config
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\bin\Debug\TcpReceive.exe
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\bin\Debug\TcpReceive.pdb
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\obj\Debug\TcpReceive.csprojResolveAssemblyReference.cache
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\obj\Debug\TcpReceive.Form1.resources
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\obj\Debug\TcpReceive.Properties.Resources.resources
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\obj\Debug\TcpReceive.csproj.GenerateResource.Cache
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\obj\Debug\TcpReceive.exe
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\TcpReceive\obj\Debug\TcpReceive.pdb
