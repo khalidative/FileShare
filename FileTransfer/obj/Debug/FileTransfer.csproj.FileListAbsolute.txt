@@ -1,0 +1,11 @@
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\bin\Debug\FileTransfer.exe
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\bin\Debug\FileTransfer.pdb
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\FileTransfer.csprojResolveAssemblyReference.cache
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\FileTransfer.FileTransfer.resources
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\FileTransfer.Properties.Resources.resources
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.GenerateResource.Cache
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\FileTransfer.exe
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\fileClient.FileClient.resources
+C:\Khalid\Projects\Visual Studios 2015\P2PFileTransfer\P2PFileTransfer\FileTransfer\obj\Debug\fileServer.FileServer.resources
